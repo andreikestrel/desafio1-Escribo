@@ -25,14 +25,8 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 ### Executando o Script
 
-1. Abra um terminal ou prompt de comando.
-
-2. Navegue até o diretório onde o arquivo 'desafio.js' está localizado usando o comando `cd`. Por exemplo:
-
-    ```bash
-    cd caminho/do/projeto
-    ```
-
+1. Clone o repositório para a sua máquina local usando `git clone link-do-repositório`.
+2. Navegue até a pasta do projeto usando `cd nome-da-pasta`. NO CASO `cd DESAFIO1`.
 3. Execute o script usando o seguinte comando:
 
     ```bash

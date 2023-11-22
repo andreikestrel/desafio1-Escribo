@@ -1,6 +1,8 @@
 # Desafio 1 - Escribo
 
-Este repositorio é uma resposta para o desafio tecnico 1 da Escribo. 
+Este repositorio é uma resposta para o desafio tecnico 1 da Escribo.
+
+
 "Descrição:
 - Implemente uma função que receba um número inteiro positivo e retorne o somatório de todos os valores
 inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
